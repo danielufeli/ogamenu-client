@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "499825166025",
+    "firebase_url": "https://ogamenu-cfbcc.firebaseio.com",
+    "project_id": "ogamenu-cfbcc",
+    "storage_bucket": "ogamenu-cfbcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499825166025:android:2c52df36689a3906636f18",
+        "android_client_info": {
+          "package_name": "com.ogamenu.markets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499825166025-7qsi5po8oglkjmj6f524pgb8iimred11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwviOX06Csd0qylYhCHYHpwdVM7LteE0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499825166025-7qsi5po8oglkjmj6f524pgb8iimred11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
